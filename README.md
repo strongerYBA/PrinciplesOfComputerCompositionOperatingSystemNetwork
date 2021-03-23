@@ -32,5 +32,5 @@
 **知行合一，综合实践**
 
 1、避免学习过程的枯燥，课程加入了丰富的实践内容。
-
+![image1](https://github.com/strongerYBA/PrinciplesOfComputerCompositionOperatingSystemNetwork/blob/master/src/main/resources/static/img.png)
 
