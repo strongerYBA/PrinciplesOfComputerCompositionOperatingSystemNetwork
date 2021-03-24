@@ -45,20 +45,20 @@
 
 **章节介绍**
 
-1、[计算机组成原理](https://github.com/strongerYBA/PrinciplesOfComputerCompositionOperatingSystemNetwork/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md)
+1、[**计算机组成原理**](https://github.com/strongerYBA/PrinciplesOfComputerCompositionOperatingSystemNetwork/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md)
 
     1）[第二章：概述篇](https://github.com/strongerYBA/PrinciplesOfComputerCompositionOperatingSystemNetwork/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md)
     2）[第三章：组成篇]
     3）[第四章：计算篇]
     4）[第五章：综合实践]
 
-2、操作系统
+2、[**操作系统**]
 
     1)[第六章：基础篇]
     2)[第七章：提升篇]
     3)[第八章：综合实践]
 
-3、计算机网络
+3、[**计算机网络**]
 
     1）[第九章：概述篇]
     2）[第十章：网络层篇]
