@@ -34,3 +34,34 @@
 1、避免学习过程的枯燥，课程加入了丰富的实践内容。
 ![image1](https://github.com/strongerYBA/PrinciplesOfComputerCompositionOperatingSystemNetwork/blob/master/src/main/resources/static/img.png)
 
+**内容重组，贴近实际**
+
+1、对内容进行了重组，突出重点，更加符合实际需求。
+![image1](https://github.com/strongerYBA/PrinciplesOfComputerCompositionOperatingSystemNetwork/blob/master/src/main/resources/static/img1.png)
+
+**图解丰富，帮助理解**
+
+1、课程PPT做了非常多的工作，丰富的图解帮助内容的理解。
+
+**章节介绍**
+
+1、计算机组成原理
+
+    1）第二章：概述篇
+    2）第三章：组成篇
+    3）第四章：计算篇
+    4）第五章：综合实践
+
+2、操作系统
+
+    1)第六章：基础篇
+    2)第七章：提升篇
+    3)第八章：综合实践
+
+3、计算机网络
+
+    1）第九章：概述篇
+    2）第十章：网络层篇
+    3）第十一章：传输层篇
+    4）第十二章：应用层篇
+    5）第十三章：综合实践
